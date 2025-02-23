@@ -60,4 +60,4 @@ if pokemon_data:
             st.write(f"{type.title()}")
 else:
     if pokemon_name or button:
-        st.error("❌ Incorrect Pokémon name. Please try again.")
+        st.error(" Incorrect Pokémon name. Please try again.")
