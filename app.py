@@ -21,7 +21,7 @@ def get_random_pokemon():
     random_id = random.randint(1, 1000)
     return get_pokemon_data(str(random_id))
 
-st.title("Pokemon List")
+st.title("Pokemon Item")
 st.markdown("Basic information from Pokémon")
 
 col1, col2 = st.columns([5, 1])
