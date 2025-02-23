@@ -2,3 +2,7 @@ In this proyect, the two views one have an html with a list of items in pokemon,
 
 the other view, it contains a python where if you write a name of a pokemon, the item of the pokemon will appear with the weight, the height and the type of the pokemon, if you write down an incorrect name of the pokemon, it willsend you a message of incorrect pokemon name
 there is also a button where you can get a random pokemon item
+
+to run the html click right and in the options open with live server
+
+in python open the terminal (tab options new terminal and write streamlit run app.py
